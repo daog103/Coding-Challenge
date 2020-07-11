@@ -5,8 +5,8 @@ on:
 jobs:
   build:
     env:
-      AWS_ACCESS_KEY_ID: 'AKIAJ5ZEHEQUSFHZW4MQ' 
-      AWS_SECRET_ACCESS_KEY: '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'
+      AWS_ACCESS_KEY_ID: 'my_key' 
+      AWS_SECRET_ACCESS_KEY: 'asdsadsadsadsa'
     
     runs-on: ubuntu-latest
     
